@@ -17,3 +17,8 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
+include:
+  - board: jmk
+    shield: jmk_left
+  - board: jmk
+    shield: jmk_right
