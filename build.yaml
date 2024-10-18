@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: jmk
+  - board: mikoto_520
     shield: jmk_left
-  - board: jmk
+  - board: mikoto_520
     shield: jmk_right
