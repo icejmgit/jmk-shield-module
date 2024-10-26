@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: jmk
     shield: jmk_left
-  - board: nice_nano_v2
+  - board: jmk
     shield: jmk_right
